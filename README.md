@@ -11,6 +11,12 @@ Python 2.7 is required as well as a gcc.
 
     $ sudo python2 setup.py install
 
+Test
+-------
+
+After installation, test hash.
+
+    $ python2 test.py
 
 Credits
 -------
