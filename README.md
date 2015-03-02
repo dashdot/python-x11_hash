@@ -1,4 +1,4 @@
-darkcoin_hash (python) v1.1
+darkcoin_hash (python) v1.2
 ==============================
 
 Python module for Darkcoin's X11 hashing.
