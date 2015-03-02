@@ -17,6 +17,6 @@ darkcoin_hash_module = Extension('darkcoin_hash',
                                include_dirs=['.', './sha3'])
 
 setup (name = 'darkcoin_hash',
-       version = '1.2',
-       description = 'Bindings for proof of work used by Darkcoin',
+       version = '1.3',
+       description = 'Binding for Darkcoin X11 proof of work hashing.',
        ext_modules = [darkcoin_hash_module])
