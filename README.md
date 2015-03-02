@@ -11,6 +11,12 @@ Python 2.7 is required as well as a gcc.
 
     $ sudo python2 setup.py install
 
+Or use pip:
+
+    $ pip install darkcoin_hash
+
+[pypi.python.org/pypi/darkcoin_hash](https://pypi.python.org/pypi/darkcoin_hash)
+
 Test
 -------
 
