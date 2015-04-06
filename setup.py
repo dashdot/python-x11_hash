@@ -1,6 +1,6 @@
 from distutils.core import setup, Extension
 
-x11coin_hash_module = Extension('x11_hash',
+x11_hash_module = Extension('x11_hash',
                                  sources = ['x11module.c',
                                             'x11hash.c',
                                             'sha3/blake.c',
